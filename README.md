@@ -1,5 +1,5 @@
 
-<a href="https://www.linkedin.com/in/max-kau%C3%A3-souza-9bb94a230/"> <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" />
+<a href="https://www.linkedin.com/in/max-kau%C3%A3-souza-9bb94a230/"> <img src="https://c4.wallpaperflare.com/wallpaper/580/440/895/darth-vader-star-wars-lightsaber-sith-wallpaper-preview.jpg" />
   
  <img align="right" width="220" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
  
