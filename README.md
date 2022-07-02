@@ -1,5 +1,5 @@
 
-<a href="https://www.linkedin.com/in/max-kau%C3%A3-souza-9bb94a230/"> <img src="https://c4.wallpaperflare.com/wallpaper/98/1019/820/mirror-s-edge-city-cgi-video-games-wallpaper-preview.jpg" />
+<a href="https://www.linkedin.com/in/max-kau%C3%A3-souza-9bb94a230/"> <img src="https://c4.wallpaperflare.com/wallpaper/404/780/895/multiple-display-dual-monitors-abstract-digital-art-wallpaper-preview.jpg" />
   
  <img align="right" width="220" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
  
