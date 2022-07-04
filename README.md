@@ -21,7 +21,7 @@ app.listen(3000, () =>{
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=78buic09azh0aghqtt410l1s4&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://www.linkedin.com/in/maxsouzadev/)
   
   
-   <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+   <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">  Mais sobre mim
 
 <div style="display: inline_block">
   <img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
