@@ -1,7 +1,7 @@
 
 <a href="https://www.linkedin.com/in/max-kau%C3%A3-souza-9bb94a230/"> <img src="https://c4.wallpaperflare.com/wallpaper/914/641/75/simple-black-minimalism-battery-wallpaper-preview.jpg" />
   
- <img align="right" width="220" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+ < img align = "right" width = "300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
  
  ```javascript
 const express = require('express')
@@ -18,6 +18,7 @@ app.listen(3000, () =>{
 })
 
 ```
+
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=78buic09azh0aghqtt410l1s4&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://www.linkedin.com/in/maxsouzadev/)
   
   
