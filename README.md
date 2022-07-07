@@ -41,4 +41,4 @@ app.listen(3000, () =>{
   <a href="https://www.linkedin.com/in/max-kau%C3%A3-souza-9bb94a230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  ![Snake animation](https://github.com/MAXZIN98/MAXZIN98/blob/output/github-contribution-grid-snake.svg)
+ <a href="https://www.linkedin.com/in/maxsouzadev/"> ![Snake animation](https://github.com/MAXZIN98/MAXZIN98/blob/output/github-contribution-grid-snake.svg)
