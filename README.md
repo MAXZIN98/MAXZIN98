@@ -25,7 +25,7 @@ app.listen(3000, () =>{
    <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">  Mais sobre mim!
 
 <div style="display: inline_block">
-  <img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <a href="https://www.linkedin.com/in/maxsouzadev/"><img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Max-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Max-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
