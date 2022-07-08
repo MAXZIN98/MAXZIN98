@@ -1,8 +1,8 @@
 
 <a href="https://www.linkedin.com/in/maxsouzadev/"> <img src="https://c4.wallpaperflare.com/wallpaper/914/641/75/simple-black-minimalism-battery-wallpaper-preview.jpg" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MAXZIN98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAXZIN98&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MAXZIN98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAXZIN98&layout=compact&langs_count=7&theme=dracula"/>
  
  ```javascript
 const express = require('express')
