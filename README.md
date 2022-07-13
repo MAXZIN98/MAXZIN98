@@ -1,5 +1,5 @@
 
-<a href="https://www.linkedin.com/in/maxsouzadev/"> <img src="https://c4.wallpaperflare.com/wallpaper/914/641/75/simple-black-minimalism-battery-wallpaper-preview.jpg" />
+<a href="https://www.linkedin.com/in/maxsouzadev/"> <img src="https://c4.wallpaperflare.com/wallpaper/242/236/855/mountains-river-snow-forest-wallpaper-preview.jpg" />
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MAXZIN98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
