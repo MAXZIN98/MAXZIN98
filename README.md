@@ -1,5 +1,5 @@
 
-<a href="https://www.linkedin.com/in/maxsouzadev/"> <img src="https://i.pinimg.com/564x/d8/d6/fd/d8d6fd35f43cfb27255d4e0a46f4f53f.jpg" />
+<a href="https://www.linkedin.com/in/maxsouzadev/"> <img src="https://c4.wallpaperflare.com/wallpaper/946/379/721/artwork-landscape-mountains-forest-wallpaper-preview.jpg" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MAXZIN98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
