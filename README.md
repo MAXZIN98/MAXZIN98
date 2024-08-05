@@ -1,12 +1,8 @@
 
-<a href="https://www.linkedin.com/in/maxsouzadev/"> <img src="https://c4.wallpaperflare.com/wallpaper/946/379/721/artwork-landscape-mountains-forest-wallpaper-preview.jpg" />
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MAXZIN98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAXZIN98&layout=compact&langs_count=7&theme=dracula"/>
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=78buic09azh0aghqtt410l1s4&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://www.linkedin.com/in/maxsouzadev/)
-  
   
    <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">  Mais sobre mim!
 
