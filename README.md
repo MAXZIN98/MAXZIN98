@@ -5,9 +5,7 @@
   <a href="https://www.linkedin.com/in/maxsouzadev/"> <img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <a href="https://www.linkedin.com/in/maxsouzadev/"> <img align="center" alt="Max-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <a href="https://www.linkedin.com/in/maxsouzadev/"> <img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <a href="https://www.linkedin.com/in/maxsouzadev/"> <img align="center" alt="Max-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <a href="https://www.linkedin.com/in/maxsouzadev/"> <img align="center" alt="Max-git" height="30" width="40"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <a href="https://www.linkedin.com/in/maxsouzadev/"> <img align="center" alt="Max-python" height="30" width="40"           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   <br>
   <div style="display: inline_block">
